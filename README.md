@@ -1,6 +1,6 @@
 # Criando um Banco Digital com Java e Orientação a Objetos
 
-## Implementei as atividades propostas pelo desafio e fui além:
+## Atividades realizadas:
 ### - Classes Banco, Agência e Usuário implementadas abstraindo conceitos de POO
 ### - Relatório de Clientes por Agência
 ### - Implemntei um método que imorime o Extrato de todas a contas do Banco
